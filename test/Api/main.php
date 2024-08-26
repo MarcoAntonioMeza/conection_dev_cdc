@@ -44,7 +44,7 @@ class ApiTest
         $request->setCurp(null);
         $request->setNacionalidad("MX");
         $request->setResidencia(null);
-        $request->setEstadoCivil(null);
+        $request->setEstadoCivil(null); 
         $request->setSexo(null);
         $request->setClaveElectorIfe(null);
         $request->setNumeroDependientes(null);
